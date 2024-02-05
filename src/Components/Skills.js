@@ -8,6 +8,7 @@ import {
   faMarker,
 } from "@fortawesome/free-solid-svg-icons";
 import "./styles.css";
+import img3 from "../images/work3.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Skills = () => {
   let now = 60;
@@ -145,10 +146,7 @@ const Skills = () => {
 
           {/* Python ,java */}
           <div className="col-sm-12 col-lg-6">
-            <img
-              src="https://portfolio-ten-pi-18.vercel.app/images/work3.jpg"
-              alt=""
-            />
+            <img src={img3} alt="" />
           </div>
         </div>
       </div>
