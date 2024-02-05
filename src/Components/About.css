@@ -1,0 +1,18 @@
+.space {
+  width: 50%;
+  min-height: 100%;
+  background-color: rgb(187, 63, 63);
+  border-radius: 30px;
+  margin-left: 100px;
+}
+
+.head {
+  font-weight: bolder;
+}
+.har {
+  font-weight: 400;
+  line-height: 1.9;
+}
+.name {
+  color: blue;
+}

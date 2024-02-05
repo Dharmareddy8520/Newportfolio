@@ -1,0 +1,51 @@
+.headers {
+  color: #1c6dbd;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  padding: 10px;
+}
+
+.icoi {
+  font-weight: bold;
+}
+.pd {
+  padding: 200px;
+}
+.headers {
+  color: #1c6dbd;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  padding: 10px;
+}
+.foot {
+  background-color: pink;
+  color: aliceblue;
+}
+.line {
+  text-decoration: steelblue;
+}
+.io {
+  color: black;
+}
+.line {
+  line-height: 1.9;
+  font-weight: 600;
+}
+
+.koo {
+  height: 300px;
+}
+
+.card-img-top {
+  width: 100%; /* ensure width of image is 100% of the card */
+  height: 200px; /* set a fixed height */
+  object-fit: cover; /* scale the image to cover the size of the container */
+}

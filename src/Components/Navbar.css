@@ -1,0 +1,21 @@
+.nav-link:hover {
+  transform: scale(1.2);
+  transition: all 0.3s ease-in-out;
+}
+.lol {
+  margin-left: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.oops {
+  margin-left: 70px;
+  text-decoration: underline;
+}
+.oops:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+.oopss:hover {
+  text-decoration: underline;
+  color: aqua;
+}

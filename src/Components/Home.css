@@ -1,0 +1,27 @@
+.containers {
+  width: 100%;
+  height: 400px;
+  background: rgb(187, 63, 63);
+  border-radius: 30px;
+}
+.loot {
+  padding-top: 10px;
+  font-weight: bolder;
+  font-size: 30px;
+}
+.ico {
+  background-color: aqua;
+}
+.loo {
+  color: black;
+  transform: scale(1.5);
+}
+FontAwesomeIcon {
+  color: black;
+  transform: scale(1.5);
+  transition: ease-in;
+}
+.kool {
+  font-weight: 200;
+  font-size: 20px;
+}
